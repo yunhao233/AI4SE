@@ -10,7 +10,7 @@ Papers are classified according to the software engineering life cycle, includin
 # code generation
 | Date | Conference | Title | Note(in chinese) | Code |
 | ---- | ----------- | ----- | ---------------- | ---- |
-| 22-07 |  | [CodeT: Code Generation with Generated Tests](https://arxiv.org/abs/2207.10397) | | [CodeT](https://github.com/microsoft/CodeT) |
+| 22-07 |  | [CodeT: Code Generation with Generated Tests](https://arxiv.org/abs/2207.10397) | [zhihu](https://zhuanlan.zhihu.com/p/12974497028) | [CodeT](https://github.com/microsoft/CodeT) |
 
 # software testing
 
